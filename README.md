@@ -1,2 +1,2 @@
 # tz-special-client
-# v1.0.2 prod
+# version 1.0.2
